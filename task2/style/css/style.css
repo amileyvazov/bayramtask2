@@ -1,0 +1,228 @@
+*{
+text-decoration: none;
+ width: none;
+ height: none;
+}
+.app{
+    width: 20%;
+}
+.app1{
+    width: 20%;
+}
+.master .shape-1{
+    position: absolute;
+    height: 10px;
+    width: 10%;
+    fill: blue;
+    bottom: 20%;
+    left: 35%;
+    transform:rotate(-10deg);
+}
+.master .shape-2{
+    position: absolute;
+    width:0.75rem;
+    height:0.75rem;
+    top: 100%;
+    right:95%;
+    
+    fill: rgb(153, 70, 236);
+}
+.master .circle{
+    position: absolute;
+    fill: blueviolet;
+    width: 250px;
+    left: 10%;
+    display: block;
+    margin-top: 5%;
+}
+ .iphone{
+    width: 700px;
+    position: absolute;
+    left: 5%;
+    margin-top: 10% 40%;
+    display: block;
+} 
+.text{
+    text-align:center;
+    margin-top: 50%;
+    background-color: blueviolet;
+    width: 100%;
+    height: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+} 
+. text .text1{
+    font-family:'News Reader',sans-serif;
+    font: 1rem sans-serif;;
+    font-weight: 800px;
+    color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+    margin-bottom: 5rem !important;
+    
+}
+.img{
+    overflow: clip;
+    overflow-clip-margin: content-box;
+    height: 3rem;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 9px 1px;
+    transition: 0.4s;
+    position:relative;
+    width: 100%;
+    top: 0;
+}
+  
+.navbar a {
+    float: left;
+    color: rgb(207, 202, 202);
+    text-align: center;
+    text-decoration: none;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 15px; 
+    line-height: 25px;
+    border-radius: 4px;
+}
+.navbar #logo {
+    font-size: 35px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+  
+.navbar .item:hover {
+    background-color: #686767;
+    color: rgb(252, 247, 247);
+}
+  
+.navbar a.item{
+    background-color: rgb(243, 240, 240);
+    color: rgb(104, 103, 103);
+}
+  
+.navbar #men{
+    float: right;
+}
+.navbar {
+    padding: 20px 10px !important;
+  }
+.navbar a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+.navbar {
+    padding: 20px 10px !important;
+}
+
+.navbar #men {
+    float: none;
+}
+.send{
+    display: inline-block;
+}
+#send{
+    border-radius: 40%;
+}
+#logo{
+    width: 100%;
+    display: flex !important;
+}
+#men{
+    width: 30%;
+    display: flex !important;
+}
+.item{
+   padding: 10% 10%; 
+   right: 20%;
+}
+.thenext img{
+    width: 10%;
+}
+.show{
+    line-height: 1 !important;
+    margin-bottom: 1rem !important
+}
+h1 {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.show1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-0.5 * var(--bs-gutter-x));
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+.px{
+    background-color: black;
+}
+.px5 {
+color: #686767;
+text-align: center;
+height: 100px;
+padding: 2% 2%;
+}
+.web a{
+    color: #686767;
+    padding: 0% 1% 1% 1%;
+    margin: ;
+}
+.tx1{
+    color: white;
+}
+.stop{
+    background-color: rgb(141, 9, 230);
+    height: 200px;
+}
+.svg{
+    display: flex;
+    padding:0% 40%;
+}
+.gp{
+    margin: 1% 2% 2% 2%;
+}
+.lh{
+    width: 100%;
+}
+.px1{
+    position: relative;
+    padding: 15rem 0;
+    background-image: url(https://source.unsplash.com/5g41N3uRPf8/1500x800);
+    background-position: center;
+    background-size: cover;
+}
+.lh-1{
+    color:white;
+    text-align: center;
+    width: 1rem;
+    height: 1rem;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.px4{
+    background-color:var(-bs-btn-bg);
+    border: var(--bs-btn-border-width) solid var(--bs-btn-border-color);
+    display: inline-block;
+     background-image: url(https://source.unsplash.com/5g41N3uRPf8/1500x800);
+    background-position: center;
+    background-size: cover;
+    border-radius: 20%;
+    color: white;
+    text-align: center;
+    display: inline;
+}
+
+  
+
+
+
+
+
+
+
